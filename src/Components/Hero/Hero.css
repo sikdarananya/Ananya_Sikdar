@@ -49,9 +49,24 @@
     cursor: pointer;
 }
 
+.hero-connect i{
+    font-size: 24px;
+    margin-right: 8px;
+}
+
 .hero-resume{
     padding: 25px 75px;
     border-radius: 50px;
     border: 2px solid #fff;
     cursor: pointer;
+}
+
+.hero-connect:hover
+{
+    border: 2px solid white;
+}
+
+.hero-resume:hover
+{
+    border-color: #B415FF;
 }
