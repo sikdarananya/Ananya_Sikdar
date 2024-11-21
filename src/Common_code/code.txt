@@ -1,3 +1,5 @@
 background: linear-gradient(267deg, #DA7C25 0.36%, #B923E1 102.06%);
 -webkit-background-clip: text;
 -webkit-text-fill-color: transparent;
+
+import theme_pattern from '../../assets/theme_pattern.svg'
