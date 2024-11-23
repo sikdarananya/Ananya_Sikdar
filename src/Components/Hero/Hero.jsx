@@ -4,7 +4,7 @@ import profile_img from '../../assets/Profile_pic.jpg'
 
 const Hero = () => {
   return (
-    <div className='hero'>
+    <div id='home' className='hero'>
       <img src={profile_img} alt="" />
       <h1><span>Hi! I am Ananya Sikdar</span>, fullstack developer based in India</h1>
       <p>I am an aspiring Fullstack developer from Kolkata, with deep understanding in Python, ASP.NET MVC, Database and ReactJS</p>
