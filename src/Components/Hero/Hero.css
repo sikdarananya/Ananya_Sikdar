@@ -4,12 +4,27 @@
     flex-direction: column;
     gap: 35px;
 }
-
-.hero img{
+/* CIRCULAR */
+.hero img {
     margin-top: 50px;
     height: 300px;
     width: 300px;
-    border-radius: 50%;
+    border-radius: 50%; 
+    object-fit: cover;
+}
+
+.hero-connect a{
+    color: white;
+    text-decoration: none;
+}
+
+.hero-resume a {
+    color: white; 
+    text-decoration: none; 
+}
+
+.hero-resume a:hover {
+    text-decoration: underline;
 }
 
 .hero h1{
