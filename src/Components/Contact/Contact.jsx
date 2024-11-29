@@ -48,12 +48,8 @@ const Contact = () => {
                      <p>sikdarananya2000@gmail.com</p>
                 </div>
                 <div className="contact-detail">
-                    <img src={call_icon} alt="" />
-                    <p>9434579400</p>
-                </div>
-                <div className="contact-detail">
                     <img src={location_icon} alt="" />
-                    <p>Kolkata</p>
+                    <p>Kolkata, IN</p>
                 </div>
             </div>
         </div>
